@@ -52,6 +52,10 @@
   }
 
   .content {
+    // 行间距
+    line-height: 180%;
+    // 字间距
+    letter-spacing:0.8px; 
     > h2 {
       font-size: 1.5rem;
 
